@@ -17,14 +17,18 @@ My goal is not just to write JavaScript, but to understand why it works
 * Maintain consistency by committing code daily.
 ---
 
-## 📅 Daily Progress Tracker
+## Learning Progress Tracker
 
-To update your progress, simply copy the empty template row from below and add it to the top of the table.
+| Topic | Days | Practiced Files / Source Code |
+| :--- | :---: | :--- |
+| **JS Strings Methods** | Day 1 | 📁 [methods.js](./js-string/methods.js) <br> 📁 [search.js](./js-string/search.js) <br> 📁 [string.js](./js-string/string.js) |
+| **JS Numbers Methods & Properties** | Day 2 | 📁 [methods.js](./js-numbers/methods.js) <br> 📁 [properties.js](./js-numbers/properties.js) <br> 📁 [bigint.js](./js-numbers/bigint.js) |
+| **JS Functions** | Day 3 | 📁 [function.js](./js-function/function.js) |
+| **JS Array** | Day 4-6 | 📁 [array.js](./js-array/object.js) <br> 📁 [methods.js](./js-array/methods.js) <br> 📁 [shallow-copy.js](./js-array/shallow-copy.js) <br> 📁 [shopping-list.js](./js-array/shopping-list.js) <br> 📁 [golf-score-translator.js](./js-array/golf-score-translator.js) <br> 📁 [lab-lunch-picker-program.js](./js-array/lab-lunch-picker-program.js) |
+| **JS Objects** | Day 6-8 | 📁 [object.js](./js-object/object.js) <br> 📁 [properties.js](./js-object/properties.js)  <br> 📁 [cargo-manifest-validator.js](./js-object/cargo-manifest-validator.js) |
 
-| Day | Date | Topic / Core Concepts Covered | Practiced Files / Source Code |
-| :---: | :---: | :--- | :--- |
-| **Day 1** | 07/07/2026 | **JS Strings Methods**  | 📁 [methods.js](./js-string/methods.js) <br> 📁 [search.js](./js-string/search.js) <br> 📁 [string.js](./js-string/string.js) |
-| **Day 2** | 08/07/2026 | **Js Numbers Methods and Properties** | 📁 [methods.js](./js-numbers/methods.js) <br> 📁 [properties.js](./js-numbers/properties.js) <br> 📁 [bigint.js](./js-numbers/bigint.js) |
+
+
 
 ---
 
