@@ -25,7 +25,7 @@ My goal is not just to write JavaScript, but to understand why it works
 | **JS Numbers Methods & Properties** | Day 2 | 📁 [methods.js](./js-numbers/methods.js) <br> 📁 [properties.js](./js-numbers/properties.js) <br> 📁 [bigint.js](./js-numbers/bigint.js) |
 | **JS Functions** | Day 3 | 📁 [function.js](./js-function/function.js) |
 | **JS Array** | Day 4-6 | 📁 [array.js](./js-array/object.js) <br> 📁 [methods.js](./js-array/methods.js) <br> 📁 [shallow-copy.js](./js-array/shallow-copy.js) <br> 📁 [shopping-list.js](./js-array/shopping-list.js) <br> 📁 [golf-score-translator.js](./js-array/golf-score-translator.js) <br> 📁 [lab-lunch-picker-program.js](./js-array/lab-lunch-picker-program.js) |
-| **JS Objects** | Day 6-8 | 📁 [object.js](./js-object/object.js) <br> 📁 [properties.js](./js-object/properties.js)  <br> 📁 [cargo-manifest-validator.js](./js-object/cargo-manifest-validator.js) |
+| **JS Objects** | Day 6-8 | 📁 [object.js](./js-object/object.js) <br> 📁 [properties.js](./js-object/properties.js)  <br> 📁 [cargo-manifest-validator.js](./js-object/cargo-manifest-validator.js) <br> 📁 [quiz-game.js](./js-object/quiz-game.js) <br> 📁 [recipe-tracker.js](./js-object/recipe-tracker.js) <br> 📁 [record-collection.js](./js-object/record-collection.js) |
 
 
 

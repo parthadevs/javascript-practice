@@ -11,18 +11,18 @@ function normalizeUnits(manifest) {
 }
 
 function validateManifest(manifest) {
-
   const errors = {};
-if (!("containerId" in manifest)) {
-  errors.containerId = "Missing";
-} else if (
-  !Number.isInteger(manifest.containerId) ||
-  manifest.containerId < 0
-) {
-  errors.containerId = "Invalid";
-}
 
-  if (!("destination" in manifest)) {
+  if (!Object.prototype.hasOwnProperty.call(manifest, "containerId")) {
+    errors.containerId = "Missing";
+  } else if (
+    !Number.isInteger(manifest.containerId) ||
+    manifest.containerId <= 0
+  ) {
+    errors.containerId = "Invalid";
+  }
+
+  if (!Object.prototype.hasOwnProperty.call(manifest, "destination")) {
     errors.destination = "Missing";
   } else if (
     typeof manifest.destination !== "string" ||
@@ -31,38 +31,32 @@ if (!("containerId" in manifest)) {
     errors.destination = "Invalid";
   }
 
-  if (!("weight" in manifest)) {
+  if (!Object.prototype.hasOwnProperty.call(manifest, "weight")) {
   errors.weight = "Missing";
 } else if (
   typeof manifest.weight !== "number" ||
   Number.isNaN(manifest.weight) ||
-  manifest.weight < 0
+  manifest.weight <= 0
 ) {
   errors.weight = "Invalid";
 }
 
-  if (!("unit" in manifest)) {
+  if (!Object.prototype.hasOwnProperty.call(manifest, "unit")) {
     errors.unit = "Missing";
   } else if (!["kg", "lb"].includes(manifest.unit)) {
     errors.unit = "Invalid";
   }
 
-  if (!("hazmat" in manifest)) {
+  if (!Object.prototype.hasOwnProperty.call(manifest, "hazmat")) {
     errors.hazmat = "Missing";
   } else if (typeof manifest.hazmat !== "boolean") {
     errors.hazmat = "Invalid";
   }
 
-  return errors;
+  return new Object(errors);
 }
 
-const object = {
-  containerId: 1,
-  destination: "Monterey, California, USA",
-  weight: 831,
-  unit: "lb",
-  hazmat: false
-}
+
 
 function processManifest(manifest) {
   const errors = validateManifest(manifest);
@@ -79,4 +73,11 @@ function processManifest(manifest) {
   console.log(`Total weight: ${normalizedManifest.weight} kg`);
 }
 
-console.log(validateManifest(object));
+const manifest = {
+  containerId: 1,
+  destination: "Dhaka",
+  weight: 10,
+  unit: "kg",
+  hazmat: false
+};
+console.log(validateManifest(manifest));
