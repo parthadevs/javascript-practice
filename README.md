@@ -51,6 +51,9 @@ javascript-practice
 | Word Counter             | Loops, String Processing                       | 📁 [workshop-word-counter.js](./workshop/workshop-word-counter.js)           |
 | Longest Word Finder             | Loops, String Processing                       | 📁 [longest-word-finder.js](./workshop/longest-word-finder.js)           |
 | Heritage Library Catalog | Objects, Arrays, String Processing, Data Parsing, Validation, Search, JSON, CSV Export | 📁 [heritage-library-catalog.js](./workshop/heritage-library-catalog.js) |
+| Profile Lookup | Objects, Arrays, for...of Loop, Object Methods, hasOwnProperty(), Dynamic Property Access, Search Algorithm | 📁 [profile-lookup.js](./workshop/profile-lookup.js) |
+
+
 ---
 
 ## 🧩 JavaScript Tricky Questions
