@@ -52,7 +52,7 @@ javascript-practice
 | Longest Word Finder             | Loops, String Processing                       | 📁 [longest-word-finder.js](./workshop/longest-word-finder.js)           |
 | Heritage Library Catalog | Objects, Arrays, String Processing, Data Parsing, Validation, Search, JSON, CSV Export | 📁 [heritage-library-catalog.js](./workshop/heritage-library-catalog.js) |
 | Profile Lookup | Objects, Arrays, for...of Loop, Object Methods, hasOwnProperty(), Dynamic Property Access, Search Algorithm | 📁 [profile-lookup.js](./workshop/profile-lookup.js) |
-
+| Festival Crowd Flow Simulator | Objects, Arrays, Loops, Functions, Queue Management, Simulation Logic, Overflow Rerouting, Data Aggregation | 📁 [festival-crowd-flow-simulator.js](./workshop/festival-crowd-flow-simulator.js) |
 
 ---
 
