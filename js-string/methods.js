@@ -9,6 +9,7 @@ console.log(text.charCodeAt(3)); // returns a UTF-16 code between 0 and 65535
 console.log(text.codePointAt(3)); // retuen code point value
 
 
+
 console.log("My name is" + " " + "Partha Sarker");
 
 let firstName = "Partha"
@@ -22,12 +23,12 @@ let text2 = "Javascript Programming"
 console.log(text2.slice(0,10)); // return Javascript 
 console.log(text2.slice(0,4));  // return Java
 console.log(text2.slice(4,10));  // return script
-
 // omit the second parameter slice(11) => start sliceing form index 11 to end
 console.log(text2.slice(11)); // return Programming
 
 console.log(text2.slice(-11)); // return Programming, now position is counted from the end of the string
 console.log(text2.slice(11 , -4)); // return Program
+console.log([].splice(0));
 console.log(text2.substring(0,10)); // start and end values must less than 0
 
 

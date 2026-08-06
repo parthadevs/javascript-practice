@@ -53,9 +53,9 @@ javascript-practice
 | Heritage Library Catalog | Objects, Arrays, String Processing, Data Parsing, Validation, Search, JSON, CSV Export | 📁 [heritage-library-catalog.js](./workshop/heritage-library-catalog.js) |
 | Profile Lookup | Objects, Arrays, for...of Loop, Object Methods, hasOwnProperty(), Dynamic Property Access, Search Algorithm | 📁 [profile-lookup.js](./workshop/profile-lookup.js) |
 | Festival Crowd Flow Simulator | Objects, Arrays, Loops, Functions, Queue Management, Simulation Logic, Overflow Rerouting, Data Aggregation | 📁 [festival-crowd-flow-simulator.js](./workshop/festival-crowd-flow-simulator.js) |
-
----
-
+ | Pyramid Generator | Loops, String Manipulation, Pattern Printing, Conditional Logic, Functions | 📁 [pyramid-generator.js](./workshop/pyramid-generator.js) |
+| Gradebook App | Functions, Arrays, Loops, Conditional Statements, String Templates, Average Calculation | 📁 [gradebook-app.js](./workshop/gradebook-app.js) |
+Smart Pantry Restocker | Objects, Arrays, Loops, Functions, Inventory Management, Stock Tracking, Conditional Logic, Restocking Automation, Data Processing | 📁 [smart-pantry-restocker.js](./workshop/smart-pantry-restocker.js) |
 ## 🧩 JavaScript Tricky Questions
 
 | Category   | Files                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
