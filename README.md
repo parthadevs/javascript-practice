@@ -56,6 +56,9 @@ javascript-practice
  | Pyramid Generator | Loops, String Manipulation, Pattern Printing, Conditional Logic, Functions | 📁 [pyramid-generator.js](./workshop/pyramid-generator.js) |
 | Gradebook App | Functions, Arrays, Loops, Conditional Statements, String Templates, Average Calculation | 📁 [gradebook-app.js](./workshop/gradebook-app.js) |
 Smart Pantry Restocker | Objects, Arrays, Loops, Functions, Inventory Management, Stock Tracking, Conditional Logic, Restocking Automation, Data Processing | 📁 [smart-pantry-restocker.js](./workshop/smart-pantry-restocker.js) |
+Story Fragment Restoration | Arrays, Objects, Loops, Functions, Sorting, Deduplication, Data Cleaning, Gap Detection, String Processing, Immutability | 📁 [story-fragment-restoration.js](./workshop/story-fragment-restoration.js) |
+
+
 ## 🧩 JavaScript Tricky Questions
 
 | Category   | Files                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
