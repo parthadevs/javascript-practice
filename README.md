@@ -29,7 +29,7 @@ javascript-practice
 | :--------------- | :---------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **JS String**    |    Day 1    | 📁 [methods.js](./js-string/methods.js) <br> 📁 [search.js](./js-string/search.js) <br> 📁 [string.js](./js-string/string.js) <br> 📁 [regular-expressions.js](./js-string/regular-expressions.js) <br> 📁 [string-searching-method-practice.js](./js-string/string-searching-method-practice.js)                                                  |
 | **JS Numbers**   |    Day 2    | 📁 [methods.js](./js-numbers/methods.js) <br> 📁 [properties.js](./js-numbers/properties.js) <br> 📁 [bigint.js](./js-numbers/bigint.js) <br> 📁 [bitwise.js](./js-numbers/bitwise.js)                                                                                                                                                             |
-| **JS Functions** |    Day 3    | 📁 [function.js](./js-function/function.js)                                                                                                                                                                                                                                                                                                        |
+| **JS Functions** |    Day 3    | 📁 [function.js](./js-function/function.js) <br> 📁 [generators.js](./js-function/generators.js) <br> 📁 [generators-real-usecase.js](./js-function/generators-real-usecase.js)                                                                                                                                                                                                                                                                                                          |
 | **JS Arrays**    |   Day 4-6   | 📁 [array.js](./js-array/array.js) <br> 📁 [methods.js](./js-array/methods.js) <br> 📁 [shallow-copy.js](./js-array/shallow-copy.js) <br> 📁 [shopping-list.js](./js-array/shopping-list.js) <br> 📁 [golf-score-translator.js](./js-array/golf-score-translator.js) <br> 📁 [lab-lunch-picker-program.js](./js-array/lab-lunch-picker-program.js) <br> 📁 [callback.js](./js-array/callback.js) |
 | **JS Objects**   |   Day 6-8   | 📁 [object.js](./js-object/object.js) <br> 📁 [properties.js](./js-object/properties.js) <br> 📁 [json.js](./js-object/json.js)                                                                                                                                                                                                                    |
 | **JS Loops**     |   Day 8-10  | 📁 [loop.js](./js-loop/loop.js)                                                                                                                                                                                                                                                                                                                  |
@@ -73,6 +73,19 @@ Playlist Remix Engine | A JavaScript data-processing project focused on practici
 | Topic             | Files                                                                                                                                                                      |
 | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Revision Practice | 📁 [rev.assignment-operator.js](./revision/rev.assignment-operator.js) <br> 📁 [rev.search.js](./revision/rev.search.js) <br> 📁 [rev.string.js](./revision/rev.string.js) |
+
+---
+
+## 🔄 Problem Solved
+
+| Name             | Files                                                                                                                                                                      |
+| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Target Index Search | 📁 [lookup-with-binary-search.js](./js-problem-solved/lookup-with-binary-search.js) | 
+| Count Elements Greater Than Previous Average | 📁 [count-elements.js](./js-problem-solved/count-elements-greater-than-previous-average.js) |
+Find the Smallest Missing Positive Integer | 📁 [find-smallest-missing-positive-integer.js](./js-problem-solved/find-smallest-missing-positive-integer.js) |
+Check Palindrome by Filtering Non-Letters | 📁 [check-palindrome-filter-non-letters.js](./js-problem-solved/check-palindrome-filter-non-letters.js) | 
+Check for Non-Identical String Rotation | 📁 [check-non-identical-string-rotation.js](./js-problem-solved/check-non-identical-string-rotation.js) | 
+Find First Occurrence | 📁 [first-occurrence-in-event-code-log.js](./js-problem-solved/first-occurrence-in-event-code-log.js)
 
 ---
 
