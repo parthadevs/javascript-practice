@@ -4,7 +4,7 @@ A structured repository for learning and practicing modern JavaScript through th
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 javascript-practice
@@ -23,7 +23,7 @@ javascript-practice
 
 ---
 
-## 🚀 Learning Progress Tracker
+## Learning Progress Tracker
 
 | Topic            |     Days    | Practiced Files / Source Code                                                                                                                                                                                                                                                                                                                      |
 | :--------------- | :---------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,7 +37,7 @@ javascript-practice
 
 ---
 
-## 🧪 JavaScript Workshops
+## JavaScript Workshops
 
 | Workshop                    | Concepts Practiced                             | Source Code                                                                  |
 | :-------------------------- | :--------------------------------------------- | :--------------------------------------------------------------------------- |
@@ -60,7 +60,7 @@ Story Fragment Restoration | Arrays, Objects, Loops, Functions, Sorting, Dedupli
 Playlist Remix Engine | A JavaScript data-processing project focused on practicing arrays, objects, loops, functions, sorting, deduplication, data cleaning, gap detection, string processing, and immutability | 📁 [playlist-remix-engine.js](./workshop/playlist-remix-engine.js) |
 
 
-## 🧩 JavaScript Tricky Questions
+## JavaScript Tricky Questions
 
 | Category   | Files                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -68,7 +68,7 @@ Playlist Remix Engine | A JavaScript data-processing project focused on practici
 
 ---
 
-## 🔄 Revision
+## Revision
 
 | Topic             | Files                                                                                                                                                                      |
 | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,16 +76,19 @@ Playlist Remix Engine | A JavaScript data-processing project focused on practici
 
 ---
 
-## 🔄 Problem Solved
+## Problem Solved
 
-| Name             | Files                                                                                                                                                                      |
-| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Target Index Search | 📁 [lookup-with-binary-search.js](./js-problem-solved/lookup-with-binary-search.js) | 
-| Count Elements Greater Than Previous Average | 📁 [count-elements.js](./js-problem-solved/count-elements-greater-than-previous-average.js) |
-Find the Smallest Missing Positive Integer | 📁 [find-smallest-missing-positive-integer.js](./js-problem-solved/find-smallest-missing-positive-integer.js) |
-Check Palindrome by Filtering Non-Letters | 📁 [check-palindrome-filter-non-letters.js](./js-problem-solved/check-palindrome-filter-non-letters.js) | 
-Check for Non-Identical String Rotation | 📁 [check-non-identical-string-rotation.js](./js-problem-solved/check-non-identical-string-rotation.js) | 
-Find First Occurrence | 📁 [first-occurrence-in-event-code-log.js](./js-problem-solved/first-occurrence-in-event-code-log.js)
+| # | Problem | File |
+| :---: | :--- | :--- |
+| 1 | Target Index Search | [`lookup-with-binary-search.js`](./js-problem-solved/lookup-with-binary-search.js) |
+| 2 | Count Elements Greater Than Previous Average | [`count-elements-greater-than-previous-average.js`](./js-problem-solved/count-elements-greater-than-previous-average.js) |
+| 3 | Find the Smallest Missing Positive Integer | [`find-smallest-missing-positive-integer.js`](./js-problem-solved/find-smallest-missing-positive-integer.js) |
+| 4 | Check Palindrome by Filtering Non-Letters | [`check-palindrome-filter-non-letters.js`](./js-problem-solved/check-palindrome-filter-non-letters.js) |
+| 5 | Check for Non-Identical String Rotation | [`check-non-identical-string-rotation.js`](./js-problem-solved/check-non-identical-string-rotation.js) |
+| 6 | Find First Occurrence | [`first-occurrence-in-event-code-log.js`](./js-problem-solved/first-occurrence-in-event-code-log.js) |
+| 7 | Maximum Non-Overlapping Intervals | [`maximum-non-overlapping-intervals.js`](./js-problem-solved/maximum-non-overlapping-intervals.js) |
+| 8 | Min Tracking Stack | [`min-tracking-stack.js`](./js-problem-solved/min-tracking-stack.js) |
+| 9 | Validate Properly Nested Brackets | [`validate-properly-nested-brackets.js`](./js-problem-solved/validate-properly-nested-brackets.js) |
 
 ---
 
