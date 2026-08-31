@@ -72,7 +72,11 @@ javascript-practice
 Smart Pantry Restocker | Objects, Arrays, Loops, Functions, Inventory Management, Stock Tracking, Conditional Logic, Restocking Automation, Data Processing | 📁 [smart-pantry-restocker.js](./workshop/smart-pantry-restocker.js) |
 Story Fragment Restoration | Arrays, Objects, Loops, Functions, Sorting, Deduplication, Data Cleaning, Gap Detection, String Processing, Immutability | 📁 [story-fragment-restoration.js](./workshop/story-fragment-restoration.js) |
 Playlist Remix Engine | A JavaScript data-processing project focused on practicing arrays, objects, loops, functions, sorting, deduplication, data cleaning, gap detection, string processing, and immutability | 📁 [playlist-remix-engine.js](./workshop/playlist-remix-engine.js) |
-
+Library Manager | Working with array methods (map, filter, reduce, join) | 📁 [library-manager.js](./workshop/library-manager.js)
+Build a Book Organizer  | use filter() and sort() array method | 📁 [library-manager.js](./workshop/book-organizer.js)
+| Rock, Paper, Scissors Game | A simple interactive Rock, Paper, Scissors game using JavaScript. | 📁 [rps-game.html](./workshop/rps-game.html) <br>📁 [rps-game.js](./workshop/rps-game.js) |
+Music Instrument Filter | Array Methods & DOM Manipulation | 📁 [music-instrument-filter.js](./workshop/music-instrument-filter.js)
+Build a Set of Football Team Cards | Object Destructuring, Array Methods & DOM Manipulation | 📁 [football-team-cards.js](./workshop/football-team-cards.js)
 
 ## JavaScript Tricky Questions
 
