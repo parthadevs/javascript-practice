@@ -8,16 +8,30 @@ A structured repository for learning and practicing modern JavaScript through th
 
 ```text
 javascript-practice
-├── js-array
-├── js-date
-├── js-function
-├── js-loop
-├── js-numbers
-├── js-object
+│
 ├── js-string
+├── js-numbers
+├── js-array
+├── js-object
+├── js-function
+│
+├── js-scope
+├── js-closure
+├── js-this
+├── js-prototype
+├── js-class
+├── js-async
+├── js-promise
+├── js-event-loop
+├── js-module
+├── js-error-handling
+├── js-dom
+├── js-web-api
+│
+├── js-problem-solved
 ├── js-tricky-questions
-├── revision
 ├── workshop
+│
 └── README.md
 ```
 
@@ -89,6 +103,11 @@ Playlist Remix Engine | A JavaScript data-processing project focused on practici
 | 7 | Maximum Non-Overlapping Intervals | [`maximum-non-overlapping-intervals.js`](./js-problem-solved/maximum-non-overlapping-intervals.js) |
 | 8 | Min Tracking Stack | [`min-tracking-stack.js`](./js-problem-solved/min-tracking-stack.js) |
 | 9 | Validate Properly Nested Brackets | [`validate-properly-nested-brackets.js`](./js-problem-solved/validate-properly-nested-brackets.js) |
+| 10 | One-Pass Removal of k-th Node from End | [`one-pass-removal-kth-from-end.js`](./js-problem-solved/one-pass-removal-kth-from-end.js) |
+| 11 | Count Number Pairs | [`count-number-pairs.js`](./js-problem-solved/count-number-pairs.js) |
+
+
+
 
 ---
 
