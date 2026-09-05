@@ -77,7 +77,10 @@ Build a Book Organizer  | use filter() and sort() array method | 📁 [library-m
 | Rock, Paper, Scissors Game | A simple interactive Rock, Paper, Scissors game using JavaScript. | 📁 [rps-game.html](./workshop/rps-game.html) <br>📁 [rps-game.js](./workshop/rps-game.js) |
 Music Instrument Filter | Array Methods & DOM Manipulation | 📁 [music-instrument-filter.js](./workshop/music-instrument-filter.js)
 Build a Set of Football Team Cards | Object Destructuring, Array Methods & DOM Manipulation | 📁 [football-team-cards.js](./workshop/football-team-cards.js)
-
+Build Customer Complaint Form | DOM Selection, Event Handling,Form Validation and Dynamic Feedback | 📁 [customer-complaint-form.js](./workshop/customer-complaint-form.js) |
+Music Player WorkShop | JavaScript DOM manipulation, Web Audio API, track switching, and accessible UI experience | 📁 [music-player.js](./workshop/music-player.js) <br> 🔴 [Live Preview](https://radiant-kleicha-f281d3.netlify.app/)
+Build a Drum Machine | JavaScript DOM manipulation, Web Audio API and others | 📁 [drum-machine.js](./workshop/drum-machine.js) <br> 🔴 [Live Preview](radiant-kleicha-f281d3.netlify.app)
+Build a Voting System | build a voting system that uses Map to create a poll and Set to prevent duplicate voting. | 📁 [build-a-voting-system.js](./workshop/build-a-voting-system.js)
 ## JavaScript Tricky Questions
 
 | Category   | Files                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
